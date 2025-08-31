@@ -1,0 +1,15 @@
+requests
+beautifulsoup4
+ffmpeg-python
+moviepy
+gTTS
+pyttsx3
+openai
+pytube
+youtube_dl
+flask
+websockets
+schedule
+apscheduler
+pandas
+numpy
