@@ -15,7 +15,7 @@ from deep_translator import GoogleTranslator
 # =========================
 # User Configuration
 # =========================
-STREAM_KEY = "tcdq-j0as-rebb-yq2k-2rbv"
+STREAM_KEY = ""
 YT_RTMP_URL = f"rtmp://a.rtmp.youtube.com/live2/{STREAM_KEY}"
 
 # Add your 10 RSS feeds here (examples; replace with your own)
@@ -238,3 +238,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
